@@ -1,2 +1,1 @@
-# Hi I'm Graham
-<center><a href="http://github.com/gr4ymac">View my Github Page</a></center>
+You can click <a href="http://github.com/gr4ymac">here to view my Github Page</a>
