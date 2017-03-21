@@ -1,1 +1,11 @@
 You can click <a href="https://github.com/Graym4c">here to view my Github Page</a>
+
+Below is a samplw of recently completed data science projects
+
+### Undergraduate Class Projects:
+#### STA141B: Web Technologies for Data Analysis
+<ol>
+<li><a href='https://github.com/Graym4c/Graym4c.github.io/blob/master/assignment4.ipynb'>Assignment 4: API's and Model Construction</a></li>
+<li><a href='https://github.com/Graym4c/Graym4c.github.io/blob/master/assignment5.ipynb'>Assignment 5: Web Scraping and Natural Language Processing</a></li>
+<li><a href='https://github.com/Graym4c/Graym4c.github.io/blob/master/assignment%20seis.ipynb'>Assignment 6: SQL and Domestic Violence Arrest Rate Inconsistencies in San Francisco</a></li>
+</ol>
