@@ -10,3 +10,7 @@ Below is a sample of recently completed data science projects
 <li><a href='https://github.com/Graym4c/Graym4c.github.io/blob/master/assignment%20seis.ipynb'>Assignment 6: SQL and Domestic Violence Arrest Rate Inconsistencies in San Francisco</a></li>
 <li><a href='https://palautatan.github.io/project141b/'>Final Project: White House Petitions Classifier</a></li>
 </ol>
+
+##### Contact me:
+
+paste('gmaith', '@', 'ucdavis.edu', sep='')
