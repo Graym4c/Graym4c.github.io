@@ -1,6 +1,6 @@
-I'm currently studying Statistics at UC Davis, where I'll be graduating in Spring 2017, and I'm pretty stoked about life after college. My data science interested lie heavily in machine learning methods and applications of data science in public policy. You can click <a href="https://github.com/Graym4c">here to view my Github Page</a>
+I am an aspiring data scientist with a B.S in Applied Statistics from UC Davis (almost). My data science interests lie heavily in machine learning methods and the applications of data science to public policy. I helped found a data science convention, <a href 'http://www.iidata.net/'>iidata</a>, and also enjoy long walks on the beach. You can click <a href="https://github.com/Graym4c">here to view my Github Page</a>
 
-Below is a samplw of recently completed data science projects
+Below is a sample of recently completed data science projects
 
 ### Undergraduate Class Projects:
 #### STA141B: Web Technologies for Data Analysis
