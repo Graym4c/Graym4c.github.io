@@ -1,4 +1,4 @@
-You can click <a href="https://github.com/Graym4c">here to view my Github Page</a>
+I'm currently studying Statistics at UC Davis, where I'll be graduating in Spring 2017, and I'm pretty stoked about life after college. My data science interested lie heavily in machine learning methods and applications of data science in public policy. You can click <a href="https://github.com/Graym4c">here to view my Github Page</a>
 
 Below is a samplw of recently completed data science projects
 
