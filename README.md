@@ -2,7 +2,7 @@ I am an aspiring data scientist with a B.S in Applied Statistics from UC Davis (
 
 Below is a sample of recently completed data science projects
 
-<center><h3>Undergraduate Class Projects:</h3></center>
+<center><h2>Undergraduate Class Projects:</h2></center>
 #### STA141B: Web Technologies for Data Analysis
 <ol>
 <li><a href='https://github.com/Graym4c/Graym4c.github.io/blob/master/assignment4.ipynb'>Assignment 4: API's and Model Construction</a></li>
@@ -11,5 +11,5 @@ Below is a sample of recently completed data science projects
 <li><a href='https://palautatan.github.io/project141b/'>Final Project: White House Petitions Classifier</a></li>
 </ol>
 
-<center><h2><ul>Contact me</ul></h2>
+<center><h3><ul>Contact me</ul></h3>
 <center>paste('gmaith', '@', 'ucdavis.edu', sep='')
