@@ -13,4 +13,4 @@ Below is a sample of recently completed data science projects
 
 ##### Contact me:
 
-paste('gmaith', '@', 'ucdavis.edu', sep='')
+<center> paste('gmaith', '@', 'ucdavis.edu', sep='')
