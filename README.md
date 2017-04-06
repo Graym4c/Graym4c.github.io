@@ -11,6 +11,6 @@ Below is a sample of recently completed data science projects
 <li><a href='https://palautatan.github.io/project141b/'>Final Project: White House Petitions Classifier</a></li>
 </ol>
 
-<center><ul>##### Contact me</ul>
+<center><h3><ul>Contact me</ul></h3>
 
 <center> paste('gmaith', '@', 'ucdavis.edu', sep='')
