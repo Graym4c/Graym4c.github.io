@@ -11,7 +11,9 @@ Below is a sample of recently completed data science projects
 <li><a href='https://palautatan.github.io/project141b/'>Final Project: White House Petitions Classifier</a></li>
 </ol>
 #### STA160: Keystone Project
-<a href='https://github.com/STA160/mainProject/FinalReport.pdf'>Linguistic Partisanship Analysis of US Legislators</a>
+<ul>
+<li><a href='https://github.com/STA160/mainProject/FinalReport.pdf'>Linguistic Partisanship Analysis of US Legislators</a></li>
+</ul>
 
 <center><h3><ul>Contact me</ul></h3>
 <center>paste('gmaith', '@', 'ucdavis.edu', sep='')
