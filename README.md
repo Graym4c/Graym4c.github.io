@@ -12,7 +12,7 @@ Below is a sample of recently completed data science projects
 </ol>
 #### STA160: Keystone Project
 <ul>
-<li><a href='https://github.com/STA160/mainProject/FinalReport.pdf'>Linguistic Partisanship Analysis of US Legislators</a></li>
+<li><a href='https://github.com/STA160/mainProject/blob/master/FinalReport.pdf'>Linguistic Partisanship Analysis of US Legislators</a></li>
 </ul>
 
 <center><h3><ul>Contact me</ul></h3>
