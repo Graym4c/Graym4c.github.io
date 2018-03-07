@@ -15,5 +15,12 @@ Below is a sample of recently completed data science projects
 <li><a href='https://github.com/STA160/mainProject/blob/master/FinalReport.pdf'>Linguistic Partisanship Analysis of US Legislators</a></li>
 </ul>
 
+<center><h2>Other Projects:</h2></center>
+#### Radio
+<ol>
+<li><a href='https://drive.google.com/file/d/1EG7jPurt-HqGvPHLp19sBFR52XlgmmFh/view?usp=sharing'>Dr. Lester Lusher: Does letting students bet on their own GPA improve outcomes?</a></li>
+<li><a href='https://drive.google.com/file/d/1AqpJwT205GCKjvf535NdTuXc_BcHrgQW/view?usp=sharing'>Dr. Delmar Larson: Can we create a free, open source textbook good enough for top-tier universities?</a></li>
+</ol>
+
 <center><h3><ul>Contact me</ul></h3>
 <center>paste('gmaith', '@', 'ucdavis.edu', sep='')
