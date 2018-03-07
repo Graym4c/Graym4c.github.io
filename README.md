@@ -1,7 +1,5 @@
 I am an aspiring data scientist with a B.S in Applied Statistics from UC Davis. My data science interests lie heavily in machine learning methods and the applications of data science to public policy. I helped found a data science convention, <a href= 'http://www.iidata.net/'>iidata</a>, and also enjoy long walks on the beach. You can click <a href="https://github.com/Graym4c">here to view my Github Page</a>
 
-Below is a sample of recently completed data science projects
-
 <center><h2>Undergraduate Class Projects:</h2></center>
 #### STA141B: Web Technologies for Data Analysis
 <ol>
