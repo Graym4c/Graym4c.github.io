@@ -12,7 +12,6 @@ I am an aspiring data scientist with a B.S in Applied Statistics from UC Davis. 
 <ul>
 <li><a href='https://github.com/STA160/mainProject/blob/master/FinalReport.pdf'>Linguistic Partisanship Analysis of US Legislators</a></li>
 </ul>
-
 <center><h2>Other Projects:</h2></center>
 #### Radio
 <ol>
