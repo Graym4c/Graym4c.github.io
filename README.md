@@ -19,7 +19,7 @@ I am an aspiring data scientist with a B.S in Applied Statistics from UC Davis. 
 <li><a href='https://drive.google.com/file/d/1AqpJwT205GCKjvf535NdTuXc_BcHrgQW/view?usp=sharing'>Dr. Delmar Larson: Can we create a free, open source textbook good enough for top-tier universities?</a></li>
 <li><a href='https://drive.google.com/open?id=1eFt9zk9PlJ9lk_cz9NDMGXid-9ecRLv3'>Academy of Anything ep.8: Oscar prediction markets, violence in America, and one way trips to Mars</a></li>
   <ul>
-    <li><a href'https://docs.google.com/document/d/10693svuztl3tjN3Ikwgxg1aOYExMXItMSdI3V2ZLWU8/edit?usp=sharing'>episode notes and references</a></li>  
+    <li><a href='https://docs.google.com/document/d/10693svuztl3tjN3Ikwgxg1aOYExMXItMSdI3V2ZLWU8/edit?usp=sharing'>Episode notes and references</a></li>  
   </ul>
 </ol>
 
