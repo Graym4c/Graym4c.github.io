@@ -24,4 +24,4 @@ I am an aspiring data scientist with a B.S in Applied Statistics from UC Davis. 
 </ol>
 
 <center><h3><ul>Contact me</ul></h3>
-<center>paste('gmaith', '@', 'ucdavis.edu', sep='')
+<center>paste('graham.macisaac09', '@', 'gmail.com', sep='')
